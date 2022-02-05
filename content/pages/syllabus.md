@@ -56,11 +56,48 @@ Grading
 
 ### Undergraduate
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Discussion participation | 30% |
-| Take home exam 1 | 35% |
-| Take home exam 2 | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take home exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take home exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Graduate
 
@@ -76,19 +113,197 @@ Flynt Leverett and Paul Staniland, course materials for 17.906 Reading Seminar i
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to course | &nbsp; |
-| 2 | The global energy industry - companies and governments; markets and politics | &nbsp; |
-| 3 | The global energy balance - present status, future trends, and strategic responses | &nbsp; |
-| 4 | Markets, cartels, and consumers - resource nationalism and resource mercantilism | &nbsp; |
-| 5 | Resource nationalism and market power (I) - OPEC and the challenges | &nbsp; |
-| 6 | Resource nationalism and market power (II) - Iran, Iraq, and the future of hydrocarbon production in the Persian Gulf | &nbsp; |
-| 7 | Resource nationalism and market power (III) - Russia, the Post-Soviet Space, and Europe | &nbsp; |
-| 8 | Resource nationalism and market power (IV) - Russia and Asia | Take home exam 1 out |
-| 9 | Resource mercantilism - China, India, and Japan | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Energy battlegrounds (I) - energy and regional security in East Asia {{< br >}}{{< br >}} The international energy agency and the future of consumer cooperation {{< br >}}{{< br >}} New prospects for producer-consumer cooperation {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | Energy battlegrounds (II) - Central Asia, the Caspian Basin, and Iran | Take home exam 1 due |
-| 12 | Energy battlegrounds (III) - The United States, Canada, and Latin America | Take home exam 2 out |
-| 13 | The geopolitics of energy and U.S. foreign policy - managing energy interdependence | Graduate term papers due |
-| 14 | The geoeconomics of energy and U.S. foreign policy - energy, currency, and the future of America's global leadership | Take home exam 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The global energy industry - companies and governments; markets and politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The global energy balance - present status, future trends, and strategic responses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Markets, cartels, and consumers - resource nationalism and resource mercantilism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Resource nationalism and market power (I) - OPEC and the challenges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Resource nationalism and market power (II) - Iran, Iraq, and the future of hydrocarbon production in the Persian Gulf
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Resource nationalism and market power (III) - Russia, the Post-Soviet Space, and Europe
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Resource nationalism and market power (IV) - Russia and Asia
+{{< tdclose >}}
+{{< tdopen >}}
+Take home exam 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Resource mercantilism - China, India, and Japan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy battlegrounds (I) - energy and regional security in East Asia
+
+The international energy agency and the future of consumer cooperation
+
+New prospects for producer-consumer cooperation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Energy battlegrounds (II) - Central Asia, the Caspian Basin, and Iran
+{{< tdclose >}}
+{{< tdopen >}}
+Take home exam 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Energy battlegrounds (III) - The United States, Canada, and Latin America
+{{< tdclose >}}
+{{< tdopen >}}
+Take home exam 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The geopolitics of energy and U.S. foreign policy - managing energy interdependence
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate term papers due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The geoeconomics of energy and U.S. foreign policy - energy, currency, and the future of America's global leadership
+{{< tdclose >}}
+{{< tdopen >}}
+Take home exam 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
