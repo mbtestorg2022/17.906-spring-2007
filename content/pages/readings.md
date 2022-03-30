@@ -135,7 +135,7 @@ Hartey, Peter, and Kenneth Medlock. "Political and Economic Influences on the Fu
 
 To introduce methodological problems involved in forecasting the global balance of supply and demand for crude oil and natural gas.
 
-[World Energy Model](http://www.worldenergyoutlook.org/) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.worldenergyoutlook.org/media/weowebsite/energymodel/WEM_Methodology_WEO2011.pdf))
+[World Energy Model](http://www.worldenergyoutlook.org/) ([PDF](http://www.worldenergyoutlook.org/media/weowebsite/energymodel/WEM_Methodology_WEO2011.pdf))
 
 Hartley, Peter, and Kenneth Medlock. "The Baker Institute World Gas Trade Model." In _Natural Gas and Geopolitics: From 1970 to 2040_. Edited by David Victor, Amy Jaffe, and Mark Hayes. New York, NY: Cambridge University Press, 2006. ISBN: 9780521865036.
 
@@ -207,7 +207,7 @@ Resource nationalism and market power (III) - Russia, the Post-Soviet Space, and
 
 Energy Information Administration, [_Country Analysis Brief: Russia_](http://www.eia.doe.gov/emeu/cabs/Russia/Background.html).
 
-The Brookings Institution. "The Russian Federation." _The Brookings Foreign Policy Energy Security Series_ (October 2006): 1-33. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.brookings.edu/~/media/research/files/reports/2006/10/russia/2006russia.pdf))
+The Brookings Institution. "The Russian Federation." _The Brookings Foreign Policy Energy Security Series_ (October 2006): 1-33. ([PDF](http://www.brookings.edu/~/media/research/files/reports/2006/10/russia/2006russia.pdf))
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 118-135. ISBN: 9780275991302.
 
@@ -265,7 +265,7 @@ Resource mercantilism - China, India, and Japan
 {{< tdopen >}}
 
 
-Lieberthal, Kenneth, and Mikkal Herberg. "China's Search for Energy Security: Implications for U.S. Policy." _NBR Analysis_ 17, no. 1 (April 2006): 1-54. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nbr.org/publication/chinas-search-for-energy-security-implications-for-u-s-policy/))
+Lieberthal, Kenneth, and Mikkal Herberg. "China's Search for Energy Security: Implications for U.S. Policy." _NBR Analysis_ 17, no. 1 (April 2006): 1-54. ([PDF](https://www.nbr.org/publication/chinas-search-for-energy-security-implications-for-u-s-policy/))
 
 Crandall, Maureen. _Energy, Economics, and Politics in the Caspian Region: Dreams and Realities_. Westport, CT: Praeger Security International, 2006, pp. 138-149. ISBN: 9780275991302.
 
@@ -299,9 +299,9 @@ New prospects for producer-consumer cooperation
 {{< tdopen >}}
 
 
-Lewis, Stephen. "Energy Security in Northeast Asia: The Potential for Cooperation Among the Major Energy Consuming Economies of China, Japan, and the United States." In _International Conference on Energy Security: Implications for U.S.-China-Middle East Relations, July 18, 2005, Shanghai, China_. Houston, TX: James A. Baker III Institute for Public Policy, 2005, pp. 1-17. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.bakerinstitute.org/research/energy-security-in-northeast-asia-the-potential-for-cooperation-among-the-major-energy-consuming-eco/))
+Lewis, Stephen. "Energy Security in Northeast Asia: The Potential for Cooperation Among the Major Energy Consuming Economies of China, Japan, and the United States." In _International Conference on Energy Security: Implications for U.S.-China-Middle East Relations, July 18, 2005, Shanghai, China_. Houston, TX: James A. Baker III Institute for Public Policy, 2005, pp. 1-17. ([PDF](https://www.bakerinstitute.org/research/energy-security-in-northeast-asia-the-potential-for-cooperation-among-the-major-energy-consuming-eco/))
 
-Leverett, Flynt, and Jeffrey Bader. "Managing China-U.S. Energy Competition in the Middle East." _Washington Quarterly_ 29, no. 1 (Winter 2005-2006): 187-201. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.brookings.edu/wp-content/uploads/2016/06/20051216_leverett_bader.pdf))
+Leverett, Flynt, and Jeffrey Bader. "Managing China-U.S. Energy Competition in the Middle East." _Washington Quarterly_ 29, no. 1 (Winter 2005-2006): 187-201. ([PDF](https://www.brookings.edu/wp-content/uploads/2016/06/20051216_leverett_bader.pdf))
 
 Friedberg, Aaron. "'[Going Out': China's Pursuit of Natural Resources and Implications for the PRC's Grand Strategy.](https://www.nbr.org/publication/going-out-chinas-pursuit-of-natural-resources-and-implications-for-the-prcs-grand-strategy/)" _NBR Analysis_ 17, no. 3 (September 2006): 1-40. 
 
